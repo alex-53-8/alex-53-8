@@ -3,4 +3,4 @@ Senior software engineer with more than 10 years of experience in software appli
 analysis, architecture, design, and development. Applies Test-driven Development approach for
 delivering defect-free source code and Agile methodology for incremental feature delivery.
 
-Find me and contact me on https://www.linkedin.com/in/alexeylunkov/
+Find me and contact on https://www.linkedin.com/in/alexeylunkov/
